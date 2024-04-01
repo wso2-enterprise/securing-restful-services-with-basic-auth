@@ -1,4 +1,4 @@
-# Securing RESTful Services
+# [DEPRICATED] Securing RESTful Services
 
 In this guide you will learn about building a RESTful web service that enforces authentication and authorization checks using Ballerina.
 
